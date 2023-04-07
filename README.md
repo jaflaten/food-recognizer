@@ -1,4 +1,3 @@
 # food-recognizer
 
-Check out my [blog-post](https://ja.flaten.dev/blog/food-recognizer-ai/)  
-about this project  
+I write a blog post about this project on my [blog](https://ja.flaten.dev/blog/food-recognizer-ai/).
